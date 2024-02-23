@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="clearBackgroundColor">#a5a5a5</color>
+    <color name="clearColor">#333333</color>
+
+    <color name="plus">#fefefe</color>
+    <color name="plusBackgroundColor">#ff9f0a</color>
+
+    <color name="backspaceColor">#333333</color>
+    <color name="backspaceBackgroundColor">#a5a5a5</color>
+
+    <color name="numberBackgroundColor">#333333</color>
+    <color name="numberColor">#fefefe</color>
+</resources>
